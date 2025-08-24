@@ -1,2 +1,20 @@
-# PYTHON-LEARNIG-JOURNEY.
-My Python learning journey with daily practice codes.
+# Python Learning Journey
+
+This repository contains my Python learning journey with daily practice codes.  
+I am following a **100 Days of Code** style challenge where I practice Python every day.
+
+## 📂 Folder Structure
+- **Day-1/**
+  - `hello.py` → Basic Python print and input example
+- **Day-2/**
+  - `mini_project.py` → Small project or exercises from Day 2
+
+## ✅ Goals
+- Learn Python from basics to advanced
+- Complete daily challenges
+- Build small projects and scripts
+
+## 🚀 How to Run
+Clone the repository:
+```bash
+git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
