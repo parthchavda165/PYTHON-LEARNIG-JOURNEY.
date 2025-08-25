@@ -8,6 +8,8 @@ I am following a **100 Days of Code** style challenge where I practice Python ev
   - `hello.py` → Basic Python print and input example
 - **Day-2/**
   - `mini_project.py` → Small project or exercises from Day 2
+- **Day-3/**
+  - `strings_day3.py` → Strings basics (printing, indexing, reversing, mini-challenges)
 
 ## ✅ Goals
 - Learn Python from basics to advanced
@@ -17,4 +19,4 @@ I am following a **100 Days of Code** style challenge where I practice Python ev
 ## 🚀 How to Run
 Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
+git clone https://github.com/your-username/python-learning.git
