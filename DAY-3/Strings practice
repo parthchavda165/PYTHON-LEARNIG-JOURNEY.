@@ -1,0 +1,21 @@
+print("day 3")
+
+name = "parth"
+frind = "harry"
+print(name)
+
+multiline = """HELLO,
+THIS IS MY DAY 3 Of 
+PYTHON LEARNING"""
+print(multiline)
+
+print("first character:", name[0])
+print("last character:", name[4])
+for char in name:
+    print(char)
+    
+    user_input = input("Enter a string: ")
+print("Length:", len(user_input))
+print("First character:", user_input[0])
+print("Last character:", user_input[-1])
+print("Reversed:", user_input[::-1])
