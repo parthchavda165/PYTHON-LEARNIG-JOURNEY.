@@ -11,7 +11,7 @@ I am following a **100 Days of Code** style challenge where I practice Python ev
 - **Day-3/**
   - `strings_day3.py` → Strings basics (printing, indexing, reversing, mini-challenges)
 
-Added Day-4 practice functions (factorial, prime, vowel counter)
+- **Day-4/** → Functions practice (factorial, prime check, vowel counter)
 
 ## ✅ Goals
 - Learn Python from basics to advanced
