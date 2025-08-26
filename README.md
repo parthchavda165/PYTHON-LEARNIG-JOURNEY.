@@ -19,6 +19,6 @@ I am following a **100 Days of Code** style challenge where I practice Python ev
 - Build small projects and scripts
 
 ## 🚀 How to Run
-Clone the repository:
-```bash
-git clone https://github.com/your-username/python-learning.git
+git clone https://github.com/parthchavda165/python-learning-journey.git
+cd python-learning-journey
+python3 filename.py
