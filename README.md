@@ -40,7 +40,7 @@ python-learning-journey/ ├── Day-1/ │   └── hello.py             �
 - [x] Day 2 – Mini Project  
 - [x] Day 3 – Strings  
 - [x] Day 4 – Functions  
-- [ ] Day 5 – Escape Sequences & Print Parameters
+- [x] Day 5 – Escape Sequences & Print Parameters
 
 ---
 
