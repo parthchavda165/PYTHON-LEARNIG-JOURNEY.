@@ -1,7 +1,7 @@
-# Python Learning Journey
+# 🚀 Python Learning Journey  
 
-This repository contains my Python learning journey with daily practice codes.  
-I am following a **100 Days of Code** style challenge where I practice Python every day.
+This repository documents my **100 Days of Code in Python**.  
+I practice **daily coding challenges**, learn **core concepts**, and build **mini-projects** to improve my Python skills.
 
 ## 📂 Folder Structure
 - **Day-1/**
