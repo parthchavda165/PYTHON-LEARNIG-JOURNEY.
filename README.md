@@ -1,32 +1,37 @@
-# 🚀 Python Learning Journey  
+# 🐍 Python Learning Journey
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![100 Days of Code](https://img.shields.io/badge/Challenge-100%20Days%20of%20Code-brightgreen)
 ![GitHub last commit](https://img.shields.io/github/last-commit/parthchavda165/PYTHON-LEARNING-JOURNEY)
-![License](https://img.shields.io/github/license/parthchavda165/PYTHON-LEARNING-JOURNEY)
-![Repo Size](https://img.shields.io/github/repo-size/parthchavda165/PYTHON-LEARNING-JOURNEY)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
 
-##  About the Project  
-This repository documents my **Python Learning Journey** aligned with the **100 Days of Code** challenge.  
-I aim to learn **Python from basics to advanced concepts** by solving daily coding challenges and building mini-projects.
+## 📑 Table of Contents
+- [📌 About This Repository](#-about-this-repository)
+- [📂 Folder Structure](#-folder-structure)
+- [📊 Progress](#-progress)
+- [▶ How to Run](#-how-to-run)
+- [📜 License](#-license)
 
 ---
 
-##  Topics Covered  
-- Python Basics (print, input)  
-- Escape Sequences (`\n`, `\t`, `\\"`)  
-- `print()` Parameters (`sep`, `end`, `file`, `flush`)  
-- Strings & Indexing  
-- Functions (factorial, prime check, vowel counter)  
+## 📌 About This Repository
+This repository contains my **Python learning journey**, where I follow the **100 Days of Code** challenge and practice Python every day.
 
 ---
 
-##  Folder Structure
+## 📂 Folder Structure
 
-python-learning-journey/ ├── Day-1/ │   └── hello.py             → Basic Python print & input ├── Day-2/ │   └── mini_project.py      → Small project exercises ├── Day-3/ │   └── strings_day3.py      → Strings basics & operations ├── Day-4/ │   └── functions_day4.py    → Functions practice ├── Day-5/ │   ├── escape_sequences.py  → Demonstration of escape characters │   └── print_parameters.py  → Usage of print function parameters └── LICENSE
-
----
+PYTHON-LEARNING-JOURNEY/
+├── Day-1/
+│   └── hello.py
+├── Day-2/
+│   └── mini_project.py
+├── Day-3/
+│   └── strings_day3.py
+├── Day-4/
+│   └── functions.py
 
 ##  Goals  
 -  Learn Python from fundamentals to advanced  
@@ -35,44 +40,25 @@ python-learning-journey/ ├── Day-1/ │   └── hello.py             �
 
 ---
 
-##  Progress Tracker  
-- [x] Day 1 – Print & Input  
-- [x] Day 2 – Mini Project  
-- [x] Day 3 – Strings  
-- [x] Day 4 – Functions  
-- [x] Day 5 – Escape Sequences & Print Parameters
+---
+
+## 📊 Progress
+✅ **Day 4 / 100 Completed**
+
+![Progress](https://progress-bar.dev/4/?scale=100&title=progress&width=500&color=babaca)
 
 ---
 
-## ▶ How to Run  
+## ▶ How to Run
+Clone the repository and run Python files:
 
 ```bash
-# Clone the repo
 git clone https://github.com/parthchavda165/PYTHON-LEARNING-JOURNEY.git
-
-# Go to project folder
 cd PYTHON-LEARNING-JOURNEY
+python filename.py
 
-# Run any Python file, e.g.:
-python Day-5/escape_sequences.py
+📜 𝙻𝚒𝚌𝚎𝚗𝚜𝚎
 
-
----
-
-License
-
-This project is licensed under the MIT License.
-
+𝚃𝚑𝚒𝚜 𝚙𝚛𝚘𝚓𝚎𝚌𝚝 𝚒𝚜 𝚕𝚒𝚌𝚎𝚗𝚜𝚎𝚍 𝚞𝚗𝚍𝚎𝚛 𝚝𝚑𝚎 𝙼𝙸𝚃 𝙻𝚒𝚌𝚎𝚗𝚜𝚎 – 𝚜𝚎𝚎 𝚝𝚑𝚎 𝙻𝙸𝙲𝙴𝙽𝚂𝙴 𝚏𝚒𝚕𝚎 𝚏𝚘𝚛 𝚍𝚎𝚝𝚊𝚒𝚕𝚜.
 
 ---
-
----
-
-##  What You Should Do Now:
-1. Go to **your GitHub repo → Edit `README.md`**.
-2. Replace the existing content with the above code.
-3. Commit changes with message:
-
-Enhanced README with badges, structure, and progress tracker
-
-
