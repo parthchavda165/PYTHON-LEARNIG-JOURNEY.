@@ -23,6 +23,7 @@ This repository contains my **Python learning journey**, where I follow the **10
 
 ## 📂 Folder Structure
 
+```
 PYTHON-LEARNING-JOURNEY/
 ├── Day-1/
 │   └── hello.py
@@ -32,6 +33,7 @@ PYTHON-LEARNING-JOURNEY/
 │   └── strings_day3.py
 ├── Day-4/
 │   └── functions.py
+```
 
 ##  Goals  
 -  Learn Python from fundamentals to advanced  
