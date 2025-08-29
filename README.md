@@ -28,13 +28,13 @@ The goal is to learn **Python from basics to advanced** and build small projects
 ## 📂 Folder Structure
 
 ├── Day-1/ │ 
-             └── hello.py          → Basic Python print and input example 
+       └── hello.py          → Basic Python print and input example 
 ├── Day-2/ │   
-             └── mini_project.py   → Small project or exercises from Day 2 
+       └── mini_project.py   → Small project or exercises from Day 2 
 ├── Day-3/ │   
-             └── strings_day3.py   → Strings basics (printing, indexing, reversing, mini-challenges) 
+       └── strings_day3.py   → Strings basics (printing, indexing, reversing, mini-challenges) 
 ├── Day-4/ │   
-             └── functions_day4.py → Functions practice (factorial, prime check, vowel counter)
+       └── functions_day4.py → Functions practice (factorial, prime check, vowel counter)
 
 ---
 
